@@ -1,0 +1,18 @@
+body {
+    background-color:#779acf;
+    padding-left:5rem;
+    padding-right: 5rem;
+}
+.card-text{
+    color: rgb(231, 238, 249);
+    font-weight: 800;
+}
+.card-title {
+    color: black;
+}
+.btn {
+    background-color: #A0BCC2;
+}
+
+
+
